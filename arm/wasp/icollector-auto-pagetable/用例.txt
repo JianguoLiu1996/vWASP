@@ -1,0 +1,30 @@
+
+Usage: icollector <pid> [outfile] <all_open> <sample_interval> <enable_PTSR>
+
+参数说明：
+pid  : 被测进程的id。  system wide 测量方式的话  pid 输入  -1
+outfile  :  结果输出文件。如存在，每次结果会覆盖。默认或输入 -1 是输出到命令行。
+all_open :  全部统计指的是测试从开始累计到采样点的结果。 1为开启。 默认是0 关闭。
+sample_interval : 采样间隔，单位是秒。 默认是10 s
+enable_PTSR :   符合页表复制条件时 开启页表复制  0：默认不开启     1：开启
+
+结束：
+采样pid的话，pid进程结束，测试工具也会自动结束。
+system wide 采样方式，需要手动 ctrl +c  结束测试工具。
+
+
+eg:
+system wide  采样， 结果输出到 命令行中:
+./icollector -1 
+
+每10s采样 , 结果输出到 result.txt 中:
+./icollector 81637 result.txt
+
+开启累计的统计
+./icollector 81637 result.log 1
+
+设置采样间隔为3 s
+./icollector 81637 result.log 0 3
+
+设置开启页表复制
+./icollector 81637 result.log 0 0 1

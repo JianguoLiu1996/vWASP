@@ -1,0 +1,398 @@
+<version> 0.0.3 <version>
+pid = 6807
+
+
+第 1 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.002256    : 450635 - 199735302
+
+iTlb_miss_rate = 0.000045    : 4014 - 88909858
+
+Memory_controller_imbalance = 1.405683 
+
+LRR = 0.304250 
+
+interconnect_imbalance = 1.212186 
+
+MAPTU = 14.461255 
+
+mem_access_latency = 56.607302 
+
+l3MPKI = 25.427050 
+
+remote_access_rate = 0.005602 
+
+bus_access = 39006433.000000 
+
+mem_access = 144612552 
+
+mem_access = 144612552 
+
+MAPTU_mc = 538.480787 
+
+node0 mem_access = 110370432 
+
+node1 mem_access = 4612732004 
+
+node2 mem_access = 151507578 
+
+node3 mem_access = 510197856 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 2 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.012615    : 367118 - 29102728
+
+iTlb_miss_rate = 0.000212    : 2707 - 12782143
+
+Memory_controller_imbalance = 1.679986 
+
+LRR = 0.347961 
+
+interconnect_imbalance = 1.717245 
+
+MAPTU = 1.842399 
+
+mem_access_latency = 452.518845 
+
+l3MPKI = 97.477887 
+
+remote_access_rate = 0.013864 
+
+bus_access = 8213987.000000 
+
+mem_access = 18423995 
+
+mem_access = 163036547 
+
+MAPTU_mc = 509.047032 
+
+node0 mem_access = 26025902 
+
+node1 mem_access = 4975320124 
+
+node2 mem_access = 2198566 
+
+node3 mem_access = 86925732 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 3 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.012620    : 365252 - 28941755
+
+iTlb_miss_rate = 0.000218    : 2766 - 12711611
+
+Memory_controller_imbalance = 1.679940 
+
+LRR = 0.347797 
+
+interconnect_imbalance = 1.717165 
+
+MAPTU = 1.842060 
+
+mem_access_latency = 452.628595 
+
+l3MPKI = 97.604128 
+
+remote_access_rate = 0.013867 
+
+bus_access = 8221982.000000 
+
+mem_access = 18420603 
+
+mem_access = 181457150 
+
+MAPTU_mc = 508.203497 
+
+node0 mem_access = 26013648 
+
+node1 mem_access = 4966973362 
+
+node2 mem_access = 2142716 
+
+node3 mem_access = 86905248 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 4 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.012600    : 362490 - 28769339
+
+iTlb_miss_rate = 0.000233    : 2947 - 12638922
+
+Memory_controller_imbalance = 1.679897 
+
+LRR = 0.347896 
+
+interconnect_imbalance = 1.717496 
+
+MAPTU = 1.840660 
+
+mem_access_latency = 452.794365 
+
+l3MPKI = 97.548726 
+
+remote_access_rate = 0.013853 
+
+bus_access = 8222444.000000 
+
+mem_access = 18406602 
+
+mem_access = 199863752 
+
+MAPTU_mc = 508.068065 
+
+node0 mem_access = 26138036 
+
+node1 mem_access = 4965554126 
+
+node2 mem_access = 2068760 
+
+node3 mem_access = 86919728 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 5 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.012620    : 366839 - 29068054
+
+iTlb_miss_rate = 0.000237    : 3028 - 12790178
+
+Memory_controller_imbalance = 1.679284 
+
+LRR = 0.347978 
+
+interconnect_imbalance = 1.716788 
+
+MAPTU = 1.820441 
+
+mem_access_latency = 453.114475 
+
+l3MPKI = 97.511872 
+
+remote_access_rate = 0.013885 
+
+bus_access = 8136077.000000 
+
+mem_access = 18204409 
+
+mem_access = 218068161 
+
+MAPTU_mc = 508.206791 
+
+node0 mem_access = 27360222 
+
+node1 mem_access = 4965563704 
+
+node2 mem_access = 2106752 
+
+node3 mem_access = 87037236 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 6 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.012574    : 365508 - 29068076
+
+iTlb_miss_rate = 0.000254    : 3246 - 12788000
+
+Memory_controller_imbalance = 1.679726 
+
+LRR = 0.347455 
+
+interconnect_imbalance = 1.716680 
+
+MAPTU = 1.844344 
+
+mem_access_latency = 450.946850 
+
+l3MPKI = 97.524763 
+
+remote_access_rate = 0.013863 
+
+bus_access = 8210281.000000 
+
+mem_access = 18443439 
+
+mem_access = 236511600 
+
+MAPTU_mc = 508.245252 
+
+node0 mem_access = 26722802 
+
+node1 mem_access = 4966911890 
+
+node2 mem_access = 1979098 
+
+node3 mem_access = 86838728 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 7 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = 0.011785    : 48660 - 4128825
+
+iTlb_miss_rate = 0.000212    : 379 - 1786762
+
+Memory_controller_imbalance = 1.677545 
+
+LRR = 0.209508 
+
+interconnect_imbalance = 1.716006 
+
+MAPTU = 0.259602 
+
+mem_access_latency = 397.075441 
+
+l3MPKI = 98.521382 
+
+remote_access_rate = 0.013162 
+
+bus_access = 1185749.000000 
+
+mem_access = 2596019 
+
+mem_access = 239107619 
+
+MAPTU_mc = 536.575879 
+
+node0 mem_access = 31624904 
+
+node1 mem_access = 5238734910 
+
+node2 mem_access = 4112378 
+
+node3 mem_access = 91286598 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 8 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = nan    : 0 - 0
+
+iTlb_miss_rate = nan    : 0 - 0
+
+Memory_controller_imbalance = 1.672054 
+
+LRR = 0.190709 
+
+interconnect_imbalance = 1.842994 
+
+MAPTU = 0.000000 
+
+mem_access_latency = nan 
+
+l3MPKI = nan 
+
+remote_access_rate = nan 
+
+bus_access = 0.000000 
+
+mem_access = 0 
+
+mem_access = 239107619 
+
+MAPTU_mc = 554.513498 
+
+node0 mem_access = 27616488 
+
+node1 mem_access = 5400569572 
+
+node2 mem_access = 9577732 
+
+node3 mem_access = 107371190 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+第 9 次 采样 
+last 10 s :
+
+
+
+dTlb_miss_rate = nan    : 0 - 0
+
+iTlb_miss_rate = nan    : 0 - 0
+
+Memory_controller_imbalance = 1.673363 
+
+LRR = 0.194611 
+
+interconnect_imbalance = 1.722147 
+
+MAPTU = 0.000000 
+
+mem_access_latency = nan 
+
+l3MPKI = nan 
+
+remote_access_rate = nan 
+
+bus_access = 0.000000 
+
+mem_access = 0 
+
+mem_access = 239107619 
+
+MAPTU_mc = 549.931960 
+
+node0 mem_access = 28330398 
+
+node1 mem_access = 5359093686 
+
+node2 mem_access = 8416420 
+
+node3 mem_access = 103479098 
+
+满足开启页表复制的单次采样 0 次； 占 总采样次数的百分比 ： 0.000000 %
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
