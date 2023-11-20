@@ -3043,13 +3043,13 @@ static void thread_loop_only_PTL() {
 
 
 // 宿主机测量PTL给ept使用时，调用这个。无需pid.
-   vWASP_check_node_latency();
+   //vWASP_check_node_latency();
 
    //虚拟机测量PTL给gpt使用时，调用这个。 需要传入PID
    // check_node_latency();
    
    //虚拟机测量PTL给gpt使用时，如果想直接用宿主机测好的PTL，调用这个。需要传入PID。    
-   //kvm_sys_get_latency_map_from_hypercall();
+   kvm_sys_get_latency_map_from_hypercall();
 
       fprintf(opt_file_out, "\n\n第 %d 次 采样 \n",sampling_times);
       sampling_times += 1;
