@@ -788,7 +788,7 @@ void check_node_latency(void)
 
    char *line=(char *)malloc(256*sizeof(char));
 // char line[100];
-        FILE * fp1 = fopen("~/wasp/bin/nodes.csv", "r");//打开输入文件
+        FILE * fp1 = fopen("~/vWASP/arm/wasp/bin/nodes.csv", "r");//打开输入文件
    if (fp1==NULL) {//若打开文件失败则退出
       fprintf(opt_file_out, "\n can not open latency file at ~/wasp/bin/nodes.csv !\n"); 
       free(line);    
@@ -3185,7 +3185,7 @@ static long kvm_sys_get_latency_map_from_hypercall(void) {
       // if (repl_pgd_enabled && !disable_PTSR)
       {
          printf("\n  kvm_sys_get_latency_map_from_hypercall !!!\n");
-         ret = syscall(441, NULL, 10, NULL, 0, nodeArray);
+         ret = syscall(441, NULL, 10, NULL, 0, NULL);
          #  if defined(__x86_64__) || defined(__i386__)
             if (ret < 0 && ret > -4096) {
                errno = -ret;
@@ -3389,7 +3389,7 @@ int main(int argc, char**argv) {
    pthread_join(thread_id, NULL);
 
    // 测perf 性能事件
-   thread_loop_only_PTL()
+   thread_loop_only_PTL();
 
    pclose(fp);
 
