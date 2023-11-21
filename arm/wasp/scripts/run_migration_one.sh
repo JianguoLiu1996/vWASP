@@ -399,7 +399,7 @@ launch_interference()
 		CURR_CONFIG=${CURR_CONFIG:1}
 	fi
         echo "check interferance  set"
-	if [ $CURR_CONFIG == "LPLDI" ] || $CURR_CONFIG == "LPRDI" ] || [ $CURR_CONFIG == "RPILD" ] || [ $CURR_CONFIG == "RPIRDI" ] || [ $CURR_CONFIG == "RPLDI" ]; then
+	if [ $CURR_CONFIG == "LPLDI" ] || [ $CURR_CONFIG == "LPRDI" ] || [ $CURR_CONFIG == "RPILD" ] || [ $CURR_CONFIG == "RPIRDI" ] || [ $CURR_CONFIG == "RPLDI" ]; then
 		echo "set interferance!"
                 $NUMACTL -c $INT_NODE -m $INT_NODE $INT_BIN > /dev/null 2>&1 &
                 # $NUMACTL -C "24-27" -m $INT_NODE $INT_BIN > /dev/null 2>&1 &
@@ -450,6 +450,7 @@ launch_benchmark_config()
         if [ $LAST_CHAR == "W" ]; then
                 $ICOLLECTOR $BENCHMARK_PID perf-$NAME.log > /dev/null 2>&1 &
                 icollector_pid=$!
+		echo -e "\e[0mIcollector $icollector_pid started!"
         fi
 	echo -e "\e[0mWaiting for benchmark: $BENCHMARK_PID to be ready"
 	while [ ! -f /tmp/alloctest-bench.ready ]; do
@@ -476,6 +477,21 @@ launch_benchmark_config()
 	echo "$BENCHMARK : $CONFIG completed."
         echo ""
 	killall bench_stream &>/dev/null
+
+	# clear pgtable replication default
+	if [ $LAST_CHAR == "W" ] || [ $LAST_CHAR == "M" ]; then
+                echo -1 | sudo tee /proc/sys/kernel/pgtable_replication > /dev/null
+                if [ $? -ne 0 ]; then
+                        echo "ERROR setting pgtable_replication to -1"
+                        exit
+                fi
+                # --- drain page table cache
+                echo -1 | sudo tee /proc/sys/kernel/pgtable_replication_cache > /dev/null
+                if [ $? -ne 0 ]; then
+                        echo "ERROR setting pgtable_replication to 0"
+                        exit
+                fi
+        fi
 }
 
 # --- prepare setup

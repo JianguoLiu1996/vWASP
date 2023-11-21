@@ -788,9 +788,9 @@ void check_node_latency(void)
 
    char *line=(char *)malloc(256*sizeof(char));
 // char line[100];
-        FILE * fp1 = fopen("~/vWASP/arm/wasp/bin/nodes.csv", "r");//打开输入文件
+        FILE * fp1 = fopen("/home/jianguoliu/vWASP/arm/wasp/bin/nodes.csv", "r");//打开输入文件
    if (fp1==NULL) {//若打开文件失败则退出
-      fprintf(opt_file_out, "\n can not open latency file at ~/vWASP/arm/wasp/bin/nodes.csv !\n"); 
+      fprintf(opt_file_out, "\n can not open latency file at /home/jianguoliu/vWASP/arm/wasp/bin/nodes.csv !\n"); 
       free(line);    
       return;
     }
@@ -915,9 +915,9 @@ void vWASP_check_node_latency(void)
 
    char *line=(char *)malloc(256*sizeof(char));
 // char line[100];
-        FILE * fp1 = fopen("~/vWASP/arm/wasp/bin/nodes.csv", "r");//打开输入文件
+        FILE * fp1 = fopen("/home/jianguoliu/vWASP/arm/wasp/bin/nodes.csv", "r");//打开输入文件
    if (fp1==NULL) {//若打开文件失败则退出
-      fprintf(opt_file_out, "\n can not open latency file at ~/vWASP/arm/wasp/bin/nodes.csv !\n"); 
+      fprintf(opt_file_out, "\n can not open latency file at /home/jianguoliu/vWASP/arm/wasp/bin/nodes.csv !\n"); 
       free(line);    
       return;
     }
@@ -3043,10 +3043,10 @@ static void thread_loop_only_PTL() {
 
 
 // 宿主机测量PTL给ept使用时，调用这个。无需pid.
-   //vWASP_check_node_latency();
+   vWASP_check_node_latency();
 
    //虚拟机测量PTL给gpt使用时，调用这个。 需要传入PID
-    check_node_latency();
+    //check_node_latency();
    
    //虚拟机测量PTL给gpt使用时，如果想直接用宿主机测好的PTL，调用这个。需要传入PID。    
    //kvm_sys_get_latency_map_from_hypercall();
@@ -3273,7 +3273,7 @@ printf("This is an example thread\n");
          
         char shbuffer[80];
         memset(shbuffer, 0, sizeof(shbuffer));
-        fp=popen("~/vWASP/arm/wasp/mytest.sh","r");
+        fp=popen("/home/jianguoliu/vWASP/arm/wasp/mytest.sh","r");
       //   fgets(shbuffer,sizeof(shbuffer),fp);
       //   printf("result = ");
       //   for (i = 0; i < 100; i++)
