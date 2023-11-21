@@ -1,0 +1,2882 @@
+<version> 0.0.3 <version>
+pid = 17933
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 234 
+
+ from node0 to node2 = 312 
+
+ from node0 to node3 = 342 
+
+ from node1 to node0 = 264 
+
+ from node1 to node1 = 190 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 350 
+
+ from node2 to node0 = 300 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 191 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 340 
+
+ from node3 to node2 = 207 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 1 次 采样 
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 234 
+
+ from node0 to node2 = 312 
+
+ from node0 to node3 = 342 
+
+ from node1 to node0 = 264 
+
+ from node1 to node1 = 190 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 350 
+
+ from node2 to node0 = 300 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 191 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 340 
+
+ from node3 to node2 = 207 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 2 次 采样 
+
+ from node0 to node0 = 192 
+
+ from node0 to node1 = 206 
+
+ from node0 to node2 = 290 
+
+ from node0 to node3 = 328 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 185 
+
+ from node1 to node2 = 311 
+
+ from node1 to node3 = 350 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 310 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 221 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 211 
+
+ do not need update!
+
+第 3 次 采样 
+
+ from node0 to node0 = 192 
+
+ from node0 to node1 = 206 
+
+ from node0 to node2 = 290 
+
+ from node0 to node3 = 328 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 185 
+
+ from node1 to node2 = 311 
+
+ from node1 to node3 = 350 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 310 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 221 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 211 
+
+ do not need update!
+
+第 4 次 采样 
+
+ from node0 to node0 = 201 
+
+ from node0 to node1 = 213 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 319 
+
+ from node1 to node0 = 212 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 312 
+
+ from node1 to node3 = 338 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 191 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 339 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 204 
+
+ do not need update!
+
+第 5 次 采样 
+
+ from node0 to node0 = 201 
+
+ from node0 to node1 = 213 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 319 
+
+ from node1 to node0 = 212 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 312 
+
+ from node1 to node3 = 338 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 191 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 339 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 204 
+
+ do not need update!
+
+第 6 次 采样 
+
+ from node0 to node0 = 208 
+
+ from node0 to node1 = 214 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 317 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 191 
+
+ from node1 to node2 = 315 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 321 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 7 次 采样 
+
+ from node0 to node0 = 208 
+
+ from node0 to node1 = 214 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 317 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 191 
+
+ from node1 to node2 = 315 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 321 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 8 次 采样 
+
+ from node0 to node0 = 216 
+
+ from node0 to node1 = 218 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 320 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 184 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 9 次 采样 
+
+ from node0 to node0 = 216 
+
+ from node0 to node1 = 218 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 320 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 184 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 10 次 采样 
+
+ from node0 to node0 = 219 
+
+ from node0 to node1 = 215 
+
+ from node0 to node2 = 298 
+
+ from node0 to node3 = 324 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 11 次 采样 
+
+ from node0 to node0 = 219 
+
+ from node0 to node1 = 215 
+
+ from node0 to node2 = 298 
+
+ from node0 to node3 = 324 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 12 次 采样 
+
+ from node0 to node0 = 218 
+
+ from node0 to node1 = 220 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 326 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 13 次 采样 
+
+ from node0 to node0 = 218 
+
+ from node0 to node1 = 220 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 326 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 14 次 采样 
+
+ from node0 to node0 = 219 
+
+ from node0 to node1 = 222 
+
+ from node0 to node2 = 304 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 219 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 15 次 采样 
+
+ from node0 to node0 = 219 
+
+ from node0 to node1 = 222 
+
+ from node0 to node2 = 304 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 219 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 16 次 采样 
+
+ from node0 to node0 = 212 
+
+ from node0 to node1 = 221 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 313 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 17 次 采样 
+
+ from node0 to node0 = 212 
+
+ from node0 to node1 = 221 
+
+ from node0 to node2 = 297 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 294 
+
+ from node2 to node1 = 313 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 18 次 采样 
+
+ from node0 to node0 = 215 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 300 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 321 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 19 次 采样 
+
+ from node0 to node0 = 215 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 300 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 321 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 20 次 采样 
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 315 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 293 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 21 次 采样 
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 218 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 315 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 293 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 22 次 采样 
+
+ from node0 to node0 = 222 
+
+ from node0 to node1 = 219 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 345 
+
+ from node2 to node0 = 274 
+
+ from node2 to node1 = 334 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 338 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 23 次 采样 
+
+ from node0 to node0 = 222 
+
+ from node0 to node1 = 219 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 345 
+
+ from node2 to node0 = 274 
+
+ from node2 to node1 = 334 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 338 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 24 次 采样 
+
+ from node0 to node0 = 222 
+
+ from node0 to node1 = 223 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 328 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 345 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 25 次 采样 
+
+ from node0 to node0 = 222 
+
+ from node0 to node1 = 223 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 328 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 188 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 345 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 26 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 219 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 320 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 27 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 219 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 320 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 28 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 313 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 29 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 313 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 30 次 采样 
+
+ from node0 to node0 = 216 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 299 
+
+ from node0 to node3 = 326 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 311 
+
+ from node1 to node3 = 338 
+
+ from node2 to node0 = 310 
+
+ from node2 to node1 = 287 
+
+ from node2 to node2 = 188 
+
+ from node2 to node3 = 207 
+
+ from node3 to node0 = 315 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 185 
+
+ do not need update!
+
+第 31 次 采样 
+
+ from node0 to node0 = 216 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 299 
+
+ from node0 to node3 = 326 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 311 
+
+ from node1 to node3 = 338 
+
+ from node2 to node0 = 310 
+
+ from node2 to node1 = 287 
+
+ from node2 to node2 = 188 
+
+ from node2 to node3 = 207 
+
+ from node3 to node0 = 315 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 185 
+
+ do not need update!
+
+第 32 次 采样 
+
+ from node0 to node0 = 226 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 299 
+
+ from node2 to node1 = 318 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 221 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 33 次 采样 
+
+ from node0 to node0 = 226 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 327 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 192 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 299 
+
+ from node2 to node1 = 318 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 221 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 34 次 采样 
+
+ from node0 to node0 = 224 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 35 次 采样 
+
+ from node0 to node0 = 224 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 36 次 采样 
+
+ from node0 to node0 = 225 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 333 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 190 
+
+ from node1 to node2 = 320 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 198 
+
+ do not need update!
+
+第 37 次 采样 
+
+ from node0 to node0 = 225 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 333 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 190 
+
+ from node1 to node2 = 320 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 326 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 198 
+
+ do not need update!
+
+第 38 次 采样 
+
+ from node0 to node0 = 214 
+
+ from node0 to node1 = 225 
+
+ from node0 to node2 = 298 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 184 
+
+ from node1 to node2 = 313 
+
+ from node1 to node3 = 337 
+
+ from node2 to node0 = 306 
+
+ from node2 to node1 = 286 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 316 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 39 次 采样 
+
+ from node0 to node0 = 214 
+
+ from node0 to node1 = 225 
+
+ from node0 to node2 = 298 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 184 
+
+ from node1 to node2 = 313 
+
+ from node1 to node3 = 337 
+
+ from node2 to node0 = 306 
+
+ from node2 to node1 = 286 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 316 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 40 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 220 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 344 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 41 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 220 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 344 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 219 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 42 次 采样 
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 216 
+
+ from node1 to node1 = 186 
+
+ from node1 to node2 = 314 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 285 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 190 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 397 
+
+ from node3 to node1 = 329 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 43 次 采样 
+
+ from node0 to node0 = 213 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 216 
+
+ from node1 to node1 = 186 
+
+ from node1 to node2 = 314 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 285 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 190 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 397 
+
+ from node3 to node1 = 329 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 44 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 200 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 45 次 采样 
+
+ from node0 to node0 = 221 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 223 
+
+ from node1 to node1 = 200 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 195 
+
+ do not need update!
+
+第 46 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 336 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 47 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 336 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 48 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 49 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 221 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 211 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 218 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 50 次 采样 
+
+ from node0 to node0 = 215 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 333 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 186 
+
+ from node1 to node2 = 313 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 306 
+
+ from node2 to node1 = 285 
+
+ from node2 to node2 = 192 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 315 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 212 
+
+ from node3 to node3 = 187 
+
+ do not need update!
+
+第 51 次 采样 
+
+ from node0 to node0 = 215 
+
+ from node0 to node1 = 230 
+
+ from node0 to node2 = 301 
+
+ from node0 to node3 = 333 
+
+ from node1 to node0 = 217 
+
+ from node1 to node1 = 186 
+
+ from node1 to node2 = 313 
+
+ from node1 to node3 = 340 
+
+ from node2 to node0 = 306 
+
+ from node2 to node1 = 285 
+
+ from node2 to node2 = 192 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 315 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 212 
+
+ from node3 to node3 = 187 
+
+ do not need update!
+
+第 52 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 225 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 199 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 273 
+
+ from node2 to node1 = 338 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 339 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 53 次 采样 
+
+ from node0 to node0 = 223 
+
+ from node0 to node1 = 225 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 199 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 273 
+
+ from node2 to node1 = 338 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 208 
+
+ from node3 to node0 = 325 
+
+ from node3 to node1 = 339 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 54 次 采样 
+
+ from node0 to node0 = 227 
+
+ from node0 to node1 = 235 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 194 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 190 
+
+ do not need update!
+
+第 55 次 采样 
+
+ from node0 to node0 = 227 
+
+ from node0 to node1 = 235 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 329 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 194 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 193 
+
+ from node2 to node3 = 210 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 190 
+
+ do not need update!
+
+第 56 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 238 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 57 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 238 
+
+ from node0 to node2 = 302 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 224 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 316 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 217 
+
+ from node3 to node3 = 194 
+
+ do not need update!
+
+第 58 次 采样 
+
+ from node0 to node0 = 226 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 59 次 采样 
+
+ from node0 to node0 = 226 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 330 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 198 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 191 
+
+ do not need update!
+
+第 60 次 采样 
+
+ from node0 to node0 = 214 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 191 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 61 次 采样 
+
+ from node0 to node0 = 214 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 191 
+
+ from node1 to node2 = 319 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 62 次 采样 
+
+ from node0 to node0 = 224 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 227 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 63 次 采样 
+
+ from node0 to node0 = 224 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 227 
+
+ from node1 to node1 = 197 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 64 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 194 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 189 
+
+ do not need update!
+
+第 65 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 232 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 334 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 194 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 295 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 197 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 189 
+
+ do not need update!
+
+第 66 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 229 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 231 
+
+ from node1 to node1 = 199 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 340 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 67 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 229 
+
+ from node0 to node2 = 307 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 231 
+
+ from node1 to node1 = 199 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 343 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 317 
+
+ from node2 to node2 = 199 
+
+ from node2 to node3 = 214 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 340 
+
+ from node3 to node2 = 213 
+
+ from node3 to node3 = 192 
+
+ do not need update!
+
+第 68 次 采样 
+
+ from node0 to node0 = 230 
+
+ from node0 to node1 = 237 
+
+ from node0 to node2 = 310 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 69 次 采样 
+
+ from node0 to node0 = 230 
+
+ from node0 to node1 = 237 
+
+ from node0 to node2 = 310 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 297 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 212 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 343 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 70 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 229 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 319 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 216 
+
+ from node3 to node0 = 327 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 71 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 229 
+
+ from node0 to node2 = 305 
+
+ from node0 to node3 = 331 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 193 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 341 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 319 
+
+ from node2 to node2 = 196 
+
+ from node2 to node3 = 216 
+
+ from node3 to node0 = 327 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 72 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 336 
+
+ from node1 to node0 = 231 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 344 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 73 次 采样 
+
+ from node0 to node0 = 229 
+
+ from node0 to node1 = 224 
+
+ from node0 to node2 = 308 
+
+ from node0 to node3 = 336 
+
+ from node1 to node0 = 231 
+
+ from node1 to node1 = 196 
+
+ from node1 to node2 = 321 
+
+ from node1 to node3 = 344 
+
+ from node2 to node0 = 296 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 344 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 74 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 299 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 200 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 75 次 采样 
+
+ from node0 to node0 = 228 
+
+ from node0 to node1 = 233 
+
+ from node0 to node2 = 303 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 226 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 299 
+
+ from node2 to node1 = 316 
+
+ from node2 to node2 = 200 
+
+ from node2 to node3 = 215 
+
+ from node3 to node0 = 323 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 215 
+
+ from node3 to node3 = 193 
+
+ do not need update!
+
+第 76 次 采样 
+
+ from node0 to node0 = 230 
+
+ from node0 to node1 = 238 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 77 次 采样 
+
+ from node0 to node0 = 230 
+
+ from node0 to node1 = 238 
+
+ from node0 to node2 = 306 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 225 
+
+ from node1 to node1 = 195 
+
+ from node1 to node2 = 318 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 298 
+
+ from node2 to node1 = 314 
+
+ from node2 to node2 = 194 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 322 
+
+ from node3 to node1 = 341 
+
+ from node3 to node2 = 216 
+
+ from node3 to node3 = 197 
+
+ do not need update!
+
+第 78 次 采样 
+
+ from node0 to node0 = 231 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 309 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 300 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 79 次 采样 
+
+ from node0 to node0 = 231 
+
+ from node0 to node1 = 226 
+
+ from node0 to node2 = 309 
+
+ from node0 to node3 = 332 
+
+ from node1 to node0 = 222 
+
+ from node1 to node1 = 189 
+
+ from node1 to node2 = 317 
+
+ from node1 to node3 = 342 
+
+ from node2 to node0 = 300 
+
+ from node2 to node1 = 315 
+
+ from node2 to node2 = 195 
+
+ from node2 to node3 = 213 
+
+ from node3 to node0 = 324 
+
+ from node3 to node1 = 342 
+
+ from node3 to node2 = 214 
+
+ from node3 to node3 = 196 
+
+ do not need update!
+
+第 80 次 采样 

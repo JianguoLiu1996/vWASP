@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Tue Nov 21 16:58:57 2023
+
+1812533771492,,cycles,355162250950,44.83,,
+49198779761,,dTLB-loads,355162753300,44.83,,
+2216744744,,dTLB-load-misses,355163288230,44.83,4.51,of all dTLB cache hits
+3863061719,,iTLB-loads,355164828640,44.83,,
+22838068,,iTLB-load-misses,355169932400,44.83,0.59,of all iTLB cache hits
+4321109106,,dtlb_walk,355175185690,44.83,,
+26209467,,itlb_walk,355181792430,44.83,,
+1295,,context-switches,792147784200,100.00,,
+0,,cpu-migrations,792147782980,100.00,,
+0,,page-faults,792147781830,100.00,,
+6957163973,,mem_access,355188424740,44.83,,
+53086873,,remote_access,355191471770,44.83,,
+19441298504,,instructions,355194267110,44.83,0.01,insn per cycle
+,,,,,93.20,stalled cycles per insn
+34376188,,branch-misses,355198991610,44.83,,
+1824395766740,,bus-cycles,355202352890,44.83,,
+2183090903,,cache-misses,355205402730,44.83,31.108,of all cache refs
+7017673532,,cache-references,327885491580,41.38,,
+1812017615639,,stalled-cycles-backend,327884242380,41.38,99.97,backend cycles idle
+8065102789,,stalled-cycles-frontend,327880169780,41.38,0.44,frontend cycles idle
+0,,alignment-faults,792144898040,100.00,,
+0,,major-faults,792144896320,100.00,,
+0,,minor-faults,792144895610,100.00,,
+1391471386,,branch-loads,327875823260,41.38,,
+34297205,,branch-load-misses,327872653650,41.38,,
+7012920858,,L1-dcache-loads,327869318920,41.38,,
+2182264186,,L1-dcache-load-misses,327866044780,41.38,31.12,of all L1-dcache hits
+3894171304,,L1-icache-loads,327863017640,41.38,,
+120732093,,L1-icache-load-misses,327858100810,41.38,3.10,of all L1-icache hits
+0,,memory_error,327852404160,41.38,,
+51762373,,remote_access_rd,327845581620,41.38,,
+5053540312,,ll_cache,655684833280,41.38,,
+2416055751,,ll_cache_miss,327839864510,41.38,,
+2413372037,,ll_cache_miss_rd,327842273500,41.38,,
+13621478856,,bus_access,327840493000,41.38,,
+Execution Time (seconds): 793
+****success****
