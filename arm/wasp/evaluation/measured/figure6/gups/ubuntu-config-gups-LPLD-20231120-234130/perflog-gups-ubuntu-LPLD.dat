@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Mon Nov 20 23:41:38 2023
+
+1796749808875,,cycles,351808318150,44.83,,
+49322257468,,dTLB-loads,351802612270,44.83,,
+2216800094,,dTLB-load-misses,351811714420,44.83,4.49,of all dTLB cache hits
+3983908421,,iTLB-loads,351813984260,44.83,,
+22318832,,iTLB-load-misses,351809748850,44.83,0.56,of all iTLB cache hits
+4322673572,,dtlb_walk,351814039610,44.83,,
+25673149,,itlb_walk,351810670780,44.83,,
+938,,context-switches,784666626470,100.00,,
+0,,cpu-migrations,784666625210,100.00,,
+0,,page-faults,784666625700,100.00,,
+7074295863,,mem_access,351810358040,44.83,,
+60963109,,remote_access,351809556110,44.83,,
+19701867532,,instructions,351810742420,44.83,0.01,insn per cycle
+,,,,,91.15,stalled cycles per insn
+33787450,,branch-misses,351812213020,44.83,,
+1808702837507,,bus-cycles,351811906700,44.83,,
+2184032507,,cache-misses,351811538780,44.83,31.168,of all cache refs
+7007297987,,cache-references,324747733050,41.38,,
+1795879807992,,stalled-cycles-backend,324742706570,41.38,99.95,backend cycles idle
+8509032308,,stalled-cycles-frontend,324740108480,41.38,0.47,frontend cycles idle
+0,,alignment-faults,784664246890,100.00,,
+0,,major-faults,784664247070,100.00,,
+0,,minor-faults,784664246320,100.00,,
+1393409910,,branch-loads,324743799200,41.38,,
+33506306,,branch-load-misses,324746058980,41.38,,
+7054943214,,L1-dcache-loads,324742527770,41.38,,
+2182107271,,L1-dcache-load-misses,324742559530,41.38,30.93,of all L1-dcache hits
+3942073344,,L1-icache-loads,324743347140,41.38,,
+118673619,,L1-icache-load-misses,324738692590,41.38,3.01,of all L1-icache hits
+0,,memory_error,324740662880,41.38,,
+60072175,,remote_access_rd,324740967780,41.38,,
+5042679448,,ll_cache,649486402690,41.38,,
+2399592359,,ll_cache_miss,324743064180,41.38,,
+2397158432,,ll_cache_miss_rd,324742507820,41.38,,
+14127145350,,bus_access,324741563300,41.38,,
+Execution Time (seconds): 785
+****success****

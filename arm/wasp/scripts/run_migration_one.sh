@@ -264,7 +264,8 @@ prepare_all_pathnames()
 	PERF=$ROOT"/bin/perf"
 	INT_BIN=$ROOT"/bin/bench_stream"
 	NUMACTL=$ROOT"/bin/numactl"
-        ICOLLECTOR=$ROOT"/bin/icollector"
+        #ICOLLECTOR=$ROOT"/bin/icollector"
+        ICOLLECTOR=$ROOT"/bin/icollectorVirtualPTL"
         if [ ! -e $BENCHPATH ]; then
             echo "Benchmark binary is missing"
             exit
