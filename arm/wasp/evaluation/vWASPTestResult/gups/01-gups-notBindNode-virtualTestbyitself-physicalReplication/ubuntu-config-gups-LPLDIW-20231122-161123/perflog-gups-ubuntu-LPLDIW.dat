@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Wed Nov 22 16:11:33 2023
+
+4261426322574,,cycles,872885386620,44.83,,
+50064739827,,dTLB-loads,872861346600,44.83,,
+2245914503,,dTLB-load-misses,872814555790,44.83,4.49,of all dTLB cache hits
+4659132958,,iTLB-loads,872821560370,44.83,,
+51204646,,iTLB-load-misses,872806451470,44.83,1.10,of all iTLB cache hits
+4357632023,,dtlb_walk,872795271120,44.83,,
+59025305,,itlb_walk,872758880270,44.83,,
+14362,,context-switches,1944064187620,100.00,,
+968,,cpu-migrations,1944064187980,100.00,,
+0,,page-faults,1944064186640,100.00,,
+7633316372,,mem_access,872763218110,44.83,,
+76189084,,remote_access,872754840270,44.83,,
+20900419700,,instructions,872725738650,44.83,0.00,insn per cycle
+,,,,,203.80,stalled cycles per insn
+59772842,,branch-misses,872685736970,44.82,,
+4292557182023,,bus-cycles,872688270980,44.82,,
+2267185660,,cache-misses,872660414470,44.82,29.544,of all cache refs
+7673814901,,cache-references,805524758360,41.37,,
+4259477607622,,stalled-cycles-backend,805539316380,41.38,99.95,backend cycles idle
+32143757362,,stalled-cycles-frontend,805538492110,41.38,0.75,frontend cycles idle
+0,,alignment-faults,1944061265190,100.00,,
+0,,major-faults,1944061276210,100.00,,
+0,,minor-faults,1944061292100,100.00,,
+1798801833,,branch-loads,805512803680,41.37,,
+59496703,,branch-load-misses,805538604740,41.38,,
+7668990399,,L1-dcache-loads,805585137160,41.38,,
+2268103640,,L1-dcache-load-misses,805560936780,41.38,29.57,of all L1-dcache hits
+4672991415,,L1-icache-loads,805563854280,41.38,,
+255764614,,L1-icache-load-misses,805580602580,41.38,5.47,of all L1-icache hits
+0,,memory_error,805614004970,41.38,,
+73692039,,remote_access_rd,805638255240,41.38,,
+4920841151,,ll_cache,1611349189940,41.38,,
+2312328251,,ll_cache_miss,805716532850,41.38,,
+2304401555,,ll_cache_miss_rd,805703220010,41.38,,
+14707009638,,bus_access,805753764200,41.39,,
+Execution Time (seconds): 2123
+****success****

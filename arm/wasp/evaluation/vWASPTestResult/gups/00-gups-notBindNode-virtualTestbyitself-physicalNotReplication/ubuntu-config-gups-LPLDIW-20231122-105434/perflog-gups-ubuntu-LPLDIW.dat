@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Wed Nov 22 10:54:48 2023
+
+4073482249940,,cycles,833681778750,44.83,,
+50017483989,,dTLB-loads,833635122020,44.83,,
+2244930683,,dTLB-load-misses,833623368880,44.83,4.49,of all dTLB cache hits
+4669786954,,iTLB-loads,833618187940,44.83,,
+48166903,,iTLB-load-misses,833606177120,44.83,1.03,of all iTLB cache hits
+4365471179,,dtlb_walk,833603095050,44.83,,
+55947001,,itlb_walk,833583226480,44.83,,
+12442,,context-switches,1857025484040,100.00,,
+928,,cpu-migrations,1857025534980,100.00,,
+0,,page-faults,1857025590700,100.00,,
+7598659582,,mem_access,833587969180,44.83,,
+99270654,,remote_access,833578314410,44.83,,
+20872598934,,instructions,833587313510,44.83,0.01,insn per cycle
+,,,,,195.12,stalled cycles per insn
+56993044,,branch-misses,833558243560,44.82,,
+4104107145133,,bus-cycles,833553867620,44.82,,
+2264185124,,cache-misses,833532452610,44.82,29.703,of all cache refs
+7622689065,,cache-references,769445967200,41.38,,
+4072669795357,,stalled-cycles-backend,769446423030,41.38,99.98,backend cycles idle
+29467048430,,stalled-cycles-frontend,769464659750,41.38,0.72,frontend cycles idle
+0,,alignment-faults,1857023376980,100.00,,
+0,,major-faults,1857023376080,100.00,,
+0,,minor-faults,1857023382680,100.00,,
+1806614964,,branch-loads,769452754170,41.38,,
+56543153,,branch-load-misses,769478654870,41.38,,
+7604088262,,L1-dcache-loads,769495961630,41.38,,
+2256808442,,L1-dcache-load-misses,769502532460,41.38,29.68,of all L1-dcache hits
+4667905903,,L1-icache-loads,769501897150,41.38,,
+238871858,,L1-icache-load-misses,769508223920,41.38,5.12,of all L1-icache hits
+0,,memory_error,769529823180,41.38,,
+94958732,,remote_access_rd,769523188880,41.38,,
+4899640679,,ll_cache,1539060256490,41.38,,
+2286397973,,ll_cache_miss,769535464350,41.38,,
+2281971137,,ll_cache_miss_rd,769521960790,41.38,,
+14539369643,,bus_access,769555867350,41.38,,
+Execution Time (seconds): 2008
+****success****

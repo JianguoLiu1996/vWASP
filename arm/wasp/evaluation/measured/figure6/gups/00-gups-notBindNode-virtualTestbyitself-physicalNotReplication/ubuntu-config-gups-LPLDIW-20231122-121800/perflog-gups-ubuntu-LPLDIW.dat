@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Wed Nov 22 12:18:10 2023
+
+4186057621778,,cycles,857134632010,44.83,,
+50059831203,,dTLB-loads,857085536090,44.83,,
+2245095498,,dTLB-load-misses,857084127950,44.83,4.48,of all dTLB cache hits
+4685139483,,iTLB-loads,857103592270,44.83,,
+50115100,,iTLB-load-misses,857061299520,44.83,1.07,of all iTLB cache hits
+4358228927,,dtlb_walk,857069937250,44.83,,
+57821911,,itlb_walk,857086490010,44.83,,
+12572,,context-switches,1909356078310,100.00,,
+950,,cpu-migrations,1909356077610,100.00,,
+0,,page-faults,1909356079420,100.00,,
+7631587415,,mem_access,857078485370,44.83,,
+100322029,,remote_access,857105317620,44.83,,
+20957626268,,instructions,857096259380,44.83,0.01,insn per cycle
+,,,,,199.64,stalled cycles per insn
+59800926,,branch-misses,857107093140,44.83,,
+4216061910742,,bus-cycles,857080859870,44.83,,
+2264622123,,cache-misses,857070777800,44.83,29.517,of all cache refs
+7672249212,,cache-references,791180013470,41.38,,
+4183882262313,,stalled-cycles-backend,791164232060,41.38,99.95,backend cycles idle
+30704842572,,stalled-cycles-frontend,791137701490,41.38,0.73,frontend cycles idle
+0,,alignment-faults,1909353716140,100.00,,
+0,,major-faults,1909353714790,100.00,,
+0,,minor-faults,1909353715640,100.00,,
+1825727266,,branch-loads,791148987100,41.38,,
+59445456,,branch-load-misses,791147316700,41.38,,
+7658792883,,L1-dcache-loads,791156593510,41.38,,
+2265543306,,L1-dcache-load-misses,791174289880,41.38,29.58,of all L1-dcache hits
+4697351784,,L1-icache-loads,791163237300,41.38,,
+249253983,,L1-icache-load-misses,791183814410,41.38,5.31,of all L1-icache hits
+0,,memory_error,791162204350,41.38,,
+96432192,,remote_access_rd,791176727070,41.38,,
+4915309150,,ll_cache,1582351728500,41.38,,
+2293644949,,ll_cache_miss,791171301260,41.38,,
+2288388352,,ll_cache_miss_rd,791180118590,41.38,,
+14846462396,,bus_access,791199520010,41.38,,
+Execution Time (seconds): 2062
+****success****
