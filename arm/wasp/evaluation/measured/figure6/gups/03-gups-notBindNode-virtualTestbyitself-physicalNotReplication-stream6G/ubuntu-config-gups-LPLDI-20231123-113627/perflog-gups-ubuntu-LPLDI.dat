@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Thu Nov 23 11:36:35 2023
+
+4298534009735,,cycles,883424011120,44.83,,
+50246027953,,dTLB-loads,883384177450,44.83,,
+2248886318,,dTLB-load-misses,883357357150,44.83,4.48,of all dTLB cache hits
+4744119382,,iTLB-loads,883378494450,44.83,,
+53602865,,iTLB-load-misses,883339488870,44.83,1.13,of all iTLB cache hits
+4365709149,,dtlb_walk,883307935060,44.83,,
+61141858,,itlb_walk,883302311340,44.83,,
+20652,,context-switches,1965781775340,100.00,,
+940,,cpu-migrations,1965781776880,100.00,,
+0,,page-faults,1965781778570,100.00,,
+7718825618,,mem_access,883307853950,44.83,,
+93402622,,remote_access,883238620220,44.82,,
+21031542877,,instructions,883216160390,44.82,0.00,insn per cycle
+,,,,,204.05,stalled cycles per insn
+66911675,,branch-misses,883210871270,44.82,,
+4330539530390,,bus-cycles,883204641480,44.82,,
+2271892433,,cache-misses,883215465320,44.82,29.394,of all cache refs
+7729233194,,cache-references,815270411120,41.38,,
+4291491339741,,stalled-cycles-backend,815270647570,41.38,99.84,backend cycles idle
+37163299417,,stalled-cycles-frontend,815253684190,41.37,0.86,frontend cycles idle
+0,,alignment-faults,1965779120040,100.00,,
+0,,major-faults,1965779117130,100.00,,
+0,,minor-faults,1965779118090,100.00,,
+1803450246,,branch-loads,815266422500,41.37,,
+66498426,,branch-load-misses,815289011670,41.38,,
+7712344429,,L1-dcache-loads,815339320890,41.38,,
+2265353448,,L1-dcache-load-misses,815303477730,41.38,29.37,of all L1-dcache hits
+4707029083,,L1-icache-loads,815342982420,41.38,,
+273670421,,L1-icache-load-misses,815382774950,41.38,5.81,of all L1-icache hits
+0,,memory_error,815388093290,41.38,,
+90697536,,remote_access_rd,815401949750,41.38,,
+4959280340,,ll_cache,1630897221720,41.38,,
+2316016520,,ll_cache_miss,815439109980,41.38,,
+2307927302,,ll_cache_miss_rd,815457434290,41.38,,
+14778474197,,bus_access,815464354480,41.39,,
+Execution Time (seconds): 2249
+****success****

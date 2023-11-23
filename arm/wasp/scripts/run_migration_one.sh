@@ -262,8 +262,8 @@ prepare_all_pathnames()
 	ROOT="$(dirname "$SCRIPTS")"
 	BENCHPATH=$ROOT"/bin/$BIN"
 	PERF=$ROOT"/bin/perf"
-	INT_BIN=$ROOT"/bin/bench_stream"
-	#INT_BIN=$ROOT"/bin/stream_25B"
+	#INT_BIN=$ROOT"/bin/bench_stream"
+	INT_BIN=$ROOT"/bin/stream_25B"
 	NUMACTL=$ROOT"/bin/numactl"
         #ICOLLECTOR=$ROOT"/bin/icollector"
         ICOLLECTOR=$ROOT"/bin/icollectorVirtualPTL"
@@ -429,8 +429,8 @@ launch_benchmark_config()
 	# --- clean up exisiting state/processes
 	rm /tmp/alloctest-bench.ready &>/dev/null
 	rm /tmp/alloctest-bench.done &> /dev/null
-	killall bench_stream &>/dev/null
-	#killall stream_25B &>/dev/null
+	#killall bench_stream &>/dev/null
+	killall stream_25B &>/dev/null
 
         CMD_PREFIX=$NUMACTL
         CMD_PREFIX+=" -m $DATA_NODE -c $CPU_NODE "
@@ -478,8 +478,8 @@ launch_benchmark_config()
 	echo "****success****" >> $OUTFILE
 	echo "$BENCHMARK : $CONFIG completed."
         echo ""
-	killall bench_stream &>/dev/null
-	#killall stream_25B &>/dev/null
+	#killall bench_stream &>/dev/null
+	killall stream_25B &>/dev/null
 
 	# clear pgtable replication default
 	if [ $LAST_CHAR == "W" ] || [ $LAST_CHAR == "M" ]; then
