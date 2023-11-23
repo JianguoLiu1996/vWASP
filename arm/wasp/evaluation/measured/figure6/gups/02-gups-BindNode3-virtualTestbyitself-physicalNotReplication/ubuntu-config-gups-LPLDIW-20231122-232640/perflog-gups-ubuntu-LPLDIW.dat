@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Wed Nov 22 23:26:50 2023
+
+4255012113650,,cycles,872660431760,44.83,,
+50152521292,,dTLB-loads,872610328720,44.83,,
+2245891060,,dTLB-load-misses,872566726000,44.83,4.48,of all dTLB cache hits
+4714535687,,iTLB-loads,872581097430,44.83,,
+51213492,,iTLB-load-misses,872567436470,44.83,1.09,of all iTLB cache hits
+4359334873,,dtlb_walk,872534218120,44.83,,
+59766736,,itlb_walk,872533488790,44.83,,
+13038,,context-switches,1943786756300,100.00,,
+958,,cpu-migrations,1943786755520,100.00,,
+0,,page-faults,1943786751100,100.00,,
+7658569222,,mem_access,872547891750,44.83,,
+104080482,,remote_access,872538079300,44.83,,
+20965670491,,instructions,872528453400,44.83,0.00,insn per cycle
+,,,,,202.91,stalled cycles per insn
+61194887,,branch-misses,872518687970,44.82,,
+4286593994666,,bus-cycles,872530427410,44.83,,
+2263968311,,cache-misses,872510973020,44.82,29.466,of all cache refs
+7683346876,,cache-references,805389704650,41.38,,
+4254041800148,,stalled-cycles-backend,805404376930,41.38,99.98,backend cycles idle
+31352001588,,stalled-cycles-frontend,805380873150,41.38,0.74,frontend cycles idle
+0,,alignment-faults,1943783849110,100.00,,
+0,,major-faults,1943783850540,100.00,,
+0,,minor-faults,1943783849570,100.00,,
+1820437183,,branch-loads,805397496920,41.38,,
+60920793,,branch-load-misses,805435028000,41.38,,
+7678450851,,L1-dcache-loads,805464941360,41.38,,
+2263360909,,L1-dcache-load-misses,805452010140,41.38,29.48,of all L1-dcache hits
+4714628608,,L1-icache-loads,805474246860,41.38,,
+257091636,,L1-icache-load-misses,805495881050,41.38,5.45,of all L1-icache hits
+0,,memory_error,805508312040,41.38,,
+99865797,,remote_access_rd,805497867930,41.38,,
+4918450390,,ll_cache,1611029270120,41.38,,
+2293971452,,ll_cache_miss,805521417590,41.38,,
+2289889560,,ll_cache_miss_rd,805527560100,41.38,,
+14695101312,,bus_access,805524411400,41.38,,
+Execution Time (seconds): 2102
+****success****

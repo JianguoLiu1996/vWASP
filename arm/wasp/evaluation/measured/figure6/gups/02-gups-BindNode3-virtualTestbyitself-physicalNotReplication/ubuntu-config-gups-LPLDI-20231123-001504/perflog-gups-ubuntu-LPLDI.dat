@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Thu Nov 23 00:15:11 2023
+
+4370073427356,,cycles,898198730640,44.83,,
+50185710359,,dTLB-loads,898178769240,44.83,,
+2245249879,,dTLB-load-misses,898144670030,44.83,4.47,of all dTLB cache hits
+4734346603,,iTLB-loads,898151915070,44.83,,
+54548525,,iTLB-load-misses,898150923160,44.83,1.15,of all iTLB cache hits
+4356788751,,dtlb_walk,898154118520,44.83,,
+64204445,,itlb_walk,898140932000,44.83,,
+10080,,context-switches,2001334151880,100.00,,
+693,,cpu-migrations,2001334151630,100.00,,
+0,,page-faults,2001334152350,100.00,,
+7806338903,,mem_access,898136884710,44.83,,
+122300818,,remote_access,898152406900,44.83,,
+21307540579,,instructions,898121685600,44.83,0.00,insn per cycle
+,,,,,204.90,stalled cycles per insn
+66356155,,branch-misses,898078841660,44.83,,
+4402700303043,,bus-cycles,898085956330,44.83,,
+2277707979,,cache-misses,898084963780,44.83,29.191,of all cache refs
+7802745057,,cache-references,828970663620,41.38,,
+4365820727174,,stalled-cycles-backend,828992960130,41.38,99.90,backend cycles idle
+35377455395,,stalled-cycles-frontend,828987108120,41.38,0.81,frontend cycles idle
+0,,alignment-faults,2001331901310,100.00,,
+0,,major-faults,2001331900330,100.00,,
+0,,minor-faults,2001331900920,100.00,,
+1804040548,,branch-loads,828958850400,41.38,,
+65772984,,branch-load-misses,828956765760,41.38,,
+7761365840,,L1-dcache-loads,828988986360,41.38,,
+2277944069,,L1-dcache-load-misses,828968504490,41.38,29.35,of all L1-dcache hits
+4691623138,,L1-icache-loads,828973140990,41.38,,
+280431218,,L1-icache-load-misses,829004730960,41.38,5.98,of all L1-icache hits
+0,,memory_error,829016828770,41.38,,
+117207238,,remote_access_rd,829026914270,41.38,,
+4997867247,,ll_cache,1658029025380,41.38,,
+2309198003,,ll_cache_miss,829049750000,41.38,,
+2303725380,,ll_cache_miss_rd,829055902820,41.38,,
+15068184209,,bus_access,829091749940,41.38,,
+Execution Time (seconds): 2120
+****success****

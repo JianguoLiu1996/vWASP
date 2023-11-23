@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Thu Nov 23 00:50:42 2023
+
+4236785550874,,cycles,868833333450,44.83,,
+50019565511,,dTLB-loads,868809495780,44.83,,
+2240811795,,dTLB-load-misses,868803204220,44.83,4.48,of all dTLB cache hits
+4732616232,,iTLB-loads,868773712800,44.83,,
+51535675,,iTLB-load-misses,868748294850,44.83,1.09,of all iTLB cache hits
+4352508220,,dtlb_walk,868744955160,44.83,,
+59506798,,itlb_walk,868739991260,44.83,,
+13627,,context-switches,1934856133880,100.00,,
+970,,cpu-migrations,1934856126220,100.00,,
+0,,page-faults,1934856119010,100.00,,
+7657986398,,mem_access,868707400670,44.83,,
+105305275,,remote_access,868668944530,44.83,,
+20999814731,,instructions,868685204450,44.83,0.00,insn per cycle
+,,,,,201.65,stalled cycles per insn
+61538584,,branch-misses,868642530340,44.82,,
+4267179401063,,bus-cycles,868615501590,44.82,,
+2270054326,,cache-misses,868580213310,44.82,29.427,of all cache refs
+7714219012,,cache-references,801748444020,41.37,,
+4234621932959,,stalled-cycles-backend,801740878220,41.37,99.95,backend cycles idle
+31347595429,,stalled-cycles-frontend,801750184610,41.37,0.74,frontend cycles idle
+0,,alignment-faults,1934853038590,100.00,,
+0,,major-faults,1934853029520,100.00,,
+0,,minor-faults,1934853023040,100.00,,
+1847947267,,branch-loads,801774356880,41.37,,
+61181545,,branch-load-misses,801789507510,41.38,,
+7720170407,,L1-dcache-loads,801806337780,41.38,,
+2268792800,,L1-dcache-load-misses,801841733990,41.38,29.39,of all L1-dcache hits
+4772203530,,L1-icache-loads,801848548000,41.38,,
+254708335,,L1-icache-load-misses,801851843400,41.38,5.34,of all L1-icache hits
+0,,memory_error,801891628160,41.38,,
+101054885,,remote_access_rd,801904292400,41.38,,
+4917913251,,ll_cache,1603864751390,41.38,,
+2290060708,,ll_cache_miss,801936195030,41.38,,
+2284373808,,ll_cache_miss_rd,801967678210,41.38,,
+14697868458,,bus_access,802006310130,41.39,,
+Execution Time (seconds): 2102
+****success****

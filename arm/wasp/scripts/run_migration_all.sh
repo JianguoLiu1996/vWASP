@@ -43,7 +43,7 @@ BENCHMARKS="gups"
 #CONFIGS="RPILD RPILDM RPILDW"
 #CONFIGS="RPILDM"
 
-for RUNTIMES in $(seq 3) 
+for RUNTIMES in $(seq 1) 
 do
 	echo "Start test round: $RUNTIMES"
 	echo "Start test round: $RUNTIMES" >> /var/log/syslog 

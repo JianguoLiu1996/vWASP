@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/arm/wasp/bin/numactl -m 3 -c 3 --pgtablerepl=3 /home/jianguoliu/vWASP/arm/wasp/bin/bench_gups_st
+# started on Wed Nov 22 22:02:02 2023
+
+4229430134048,,cycles,867598448470,44.83,,
+50083762025,,dTLB-loads,867564594920,44.83,,
+2245776630,,dTLB-load-misses,867565626220,44.83,4.48,of all dTLB cache hits
+4692626211,,iTLB-loads,867523613920,44.83,,
+51827180,,iTLB-load-misses,867527120380,44.83,1.10,of all iTLB cache hits
+4361606798,,dtlb_walk,867509569060,44.83,,
+61792231,,itlb_walk,867523880820,44.83,,
+13626,,context-switches,1932444306790,100.00,,
+897,,cpu-migrations,1932444287220,100.00,,
+0,,page-faults,1932444270650,100.00,,
+7662163558,,mem_access,867504495450,44.83,,
+105400917,,remote_access,867521073430,44.83,,
+20987350959,,instructions,867500683360,44.83,0.00,insn per cycle
+,,,,,201.44,stalled cycles per insn
+60823139,,branch-misses,867516192690,44.83,,
+4260833278301,,bus-cycles,867472408370,44.83,,
+2267828880,,cache-misses,867477906120,44.83,29.431,of all cache refs
+7705525872,,cache-references,800737026850,41.38,,
+4227760499315,,stalled-cycles-backend,800724098450,41.38,99.96,backend cycles idle
+31480993972,,stalled-cycles-frontend,800759246420,41.38,0.74,frontend cycles idle
+0,,alignment-faults,1932441119940,100.00,,
+0,,major-faults,1932441100470,100.00,,
+0,,minor-faults,1932440933170,100.00,,
+1828854667,,branch-loads,800738318370,41.38,,
+60387702,,branch-load-misses,800764542200,41.38,,
+7695342774,,L1-dcache-loads,800771377680,41.38,,
+2265999145,,L1-dcache-load-misses,800791924320,41.38,29.45,of all L1-dcache hits
+4711376740,,L1-icache-loads,800777802900,41.38,,
+259416128,,L1-icache-load-misses,800783724800,41.38,5.51,of all L1-icache hits
+0,,memory_error,800773372760,41.38,,
+100542820,,remote_access_rd,800804786910,41.38,,
+4938620014,,ll_cache,1601650691120,41.38,,
+2301464638,,ll_cache_miss,800824866790,41.38,,
+2296581124,,ll_cache_miss_rd,800842404430,41.38,,
+14663485619,,bus_access,800845154560,41.38,,
+Execution Time (seconds): 2095
+****success****
