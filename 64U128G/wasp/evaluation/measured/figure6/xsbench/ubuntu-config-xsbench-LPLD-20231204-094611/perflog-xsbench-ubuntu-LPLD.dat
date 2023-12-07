@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/64U128G/wasp/bin/numactl -m 3 -c 3 /home/jianguoliu/vWASP/64U128G/wasp/bin/bench_xsbench_mt -- -t 1 -g 40000 -p 1500000
+# started on Mon Dec  4 09:47:01 2023
+
+2733044600752,,cycles,536167983980,44.83,,
+132066373784,,dTLB-loads,536155465020,44.83,,
+4348552492,,dTLB-load-misses,536157358220,44.83,3.29,of all dTLB cache hits
+24861077041,,iTLB-loads,536160237790,44.83,,
+34147356,,iTLB-load-misses,536161477760,44.83,0.14,of all iTLB cache hits
+7209398510,,dtlb_walk,536156417000,44.83,,
+39709473,,itlb_walk,536154258400,44.83,,
+2029,,context-switches,1195806213350,100.00,,
+0,,cpu-migrations,1195806211170,100.00,,
+0,,page-faults,1195806211150,100.00,,
+68971630590,,mem_access,536158710840,44.83,,
+1049019528,,remote_access,536167305200,44.83,,
+148542900282,,instructions,536173111940,44.83,0.05,insn per cycle
+,,,,,17.99,stalled cycles per insn
+173797925,,branch-misses,536176333450,44.83,,
+2751612724026,,bus-cycles,536183066220,44.83,,
+7626569426,,cache-misses,536186191560,44.83,11.013,of all cache refs
+69251262194,,cache-references,494951936190,41.38,,
+2671979324986,,stalled-cycles-backend,494950123810,41.38,97.77,backend cycles idle
+16125615679,,stalled-cycles-frontend,494950553760,41.38,0.59,frontend cycles idle
+0,,alignment-faults,1195803418900,100.00,,
+0,,major-faults,1195803421010,100.00,,
+0,,minor-faults,1195803424550,100.00,,
+16160799105,,branch-loads,494950036950,41.38,,
+174079036,,branch-load-misses,494956919240,41.38,,
+69172741181,,L1-dcache-loads,494954894640,41.38,,
+7618631632,,L1-dcache-load-misses,494950301280,41.38,11.01,of all L1-dcache hits
+24958710817,,L1-icache-loads,494945174850,41.38,,
+197810439,,L1-icache-load-misses,494947799780,41.38,0.79,of all L1-icache hits
+0,,memory_error,494950135190,41.38,,
+1047047155,,remote_access_rd,494946730780,41.38,,
+28877813572,,ll_cache,989875170470,41.38,,
+12591346212,,ll_cache_miss,494932834970,41.38,,
+12580039799,,ll_cache_miss_rd,494926066600,41.38,,
+38606982905,,bus_access,494924162610,41.38,,
+Execution Time (seconds): 1197
+****success****

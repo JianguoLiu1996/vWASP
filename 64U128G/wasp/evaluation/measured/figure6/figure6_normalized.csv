@@ -1,0 +1,4 @@
+Workload	Configuration	Walk Cycles	Non-Walk Cycles	 Norm. Perf.
+GUPS	LP-LD	0.000000	1.000000	1.000000
+XSBench	LP-LD	0.000000	1.000000	1.000000
+XSBench	RPI-LD	0.000000	7.685497	7.685497

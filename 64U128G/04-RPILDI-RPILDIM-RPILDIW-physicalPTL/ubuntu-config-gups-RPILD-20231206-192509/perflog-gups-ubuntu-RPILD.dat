@@ -1,0 +1,40 @@
+/home/jianguoliu/vWASP/64U128G/wasp/bin/numactl -m 3 -c 3 /home/jianguoliu/vWASP/64U128G/wasp/bin/bench_gups_st
+# started on Wed Dec  6 19:25:31 2023
+
+6196478544745,,cycles,1321598021230,44.83,,
+50676633765,,dTLB-loads,1321562237950,44.83,,
+2272409543,,dTLB-load-misses,1321518153620,44.83,4.48,of all dTLB cache hits
+5049038226,,iTLB-loads,1321504299540,44.83,,
+73442015,,iTLB-load-misses,1321498608770,44.83,1.45,of all iTLB cache hits
+4383603568,,dtlb_walk,1321486100260,44.83,,
+84345070,,itlb_walk,1321463251620,44.83,,
+18063,,context-switches,2943084550230,100.00,,
+648,,cpu-migrations,2943084548390,100.00,,
+0,,page-faults,2943084549020,100.00,,
+8015110867,,mem_access,1321466848300,44.83,,
+110260982,,remote_access,1321405525130,44.83,,
+21834137193,,instructions,1321437863860,44.83,0.00,insn per cycle
+,,,,,282.60,stalled cycles per insn
+77064457,,branch-misses,1321360547160,44.82,,
+6252713024211,,bus-cycles,1321438014900,44.83,,
+2314558456,,cache-misses,1321406539250,44.83,28.763,of all cache refs
+8046970954,,cache-references,1219790226940,41.38,,
+6170219844534,,stalled-cycles-backend,1219758224580,41.38,99.58,backend cycles idle
+83887011940,,stalled-cycles-frontend,1219742399500,41.38,1.35,frontend cycles idle
+0,,alignment-faults,2943082219450,100.00,,
+0,,major-faults,2943082225340,100.00,,
+0,,minor-faults,2943082225990,100.00,,
+2017985084,,branch-loads,1219735367950,41.38,,
+76760576,,branch-load-misses,1219733084210,41.38,,
+8047475048,,L1-dcache-loads,1219810231450,41.38,,
+2318902383,,L1-dcache-load-misses,1219823005050,41.38,28.82,of all L1-dcache hits
+5054498986,,L1-icache-loads,1219855496120,41.38,,
+352204518,,L1-icache-load-misses,1219860899570,41.38,6.97,of all L1-icache hits
+0,,memory_error,1219879852890,41.38,,
+104856113,,remote_access_rd,1219862974420,41.38,,
+4899144836,,ll_cache,2439768983960,41.38,,
+2252165184,,ll_cache_miss,1219937085820,41.38,,
+2245697965,,ll_cache_miss_rd,1219888387020,41.38,,
+15967619118,,bus_access,1219912277300,41.38,,
+Execution Time (seconds): 3189
+****success****
